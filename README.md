@@ -1,5 +1,6 @@
-Course documents for Algebra, a college-level
-course that focuses on applications.
+This is a personal collection of assessment questions for various math and physics courses that I have taught.  Questions are coded by tags for different skills.
+
+Future work on this collection will include improvements in the interface to allow curation of assessment questions and cross-referencing with various standards systems.
 
 The site is built using Pelican, a static site generator written in Python.
 
