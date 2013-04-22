@@ -2,7 +2,7 @@ Combinatorics
 #############
 
 :date: 2013-04-22
-:category: quizzes
+:category: discrete
 :summary: A collection of assessment questions on combinatorics
 :tags: DC.2.A,DC.2.B
 
